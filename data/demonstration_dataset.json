@@ -1,0 +1,12 @@
+[
+  {"text": "Your bank account has been locked due to suspicious activity. Click http://secure-bank-login.example to verify your OTP immediately.", "label": 1},
+  {"text": "URGENT: Digital arrest warrant issued against your Aadhaar number. Call +1-800-FAKE-POLICE or face immediate police custody.", "label": 1},
+  {"text": "Congratulations! You won a free iPhone 15 Pro. Claim your prize at http://free-gift-claim.example by paying $2 shipping fee.", "label": 1},
+  {"text": "Hey mom, just checking in to see when you are arriving for dinner tonight. Love you!", "label": 0},
+  {"text": "Your package delivery failed. Confirm your address and pay $1.50 redelivery fee at http://usps-tracking-update.example", "label": 1},
+  {"text": "Team sync meeting is scheduled for tomorrow at 10 AM in Conference Room B. Please review the attached agenda.", "label": 0},
+  {"text": "Dear customer, your electricity bill is overdue. Power will be disconnected in 2 hours unless you pay via UPI immediately.", "label": 1},
+  {"text": "Reminder: Your dental appointment is confirmed for Thursday at 2:30 PM with Dr. Smith.", "label": 0},
+  {"text": "IRS Final Notice: Unpaid taxes detected. Arrest warrants active unless settled via gift cards immediately.", "label": 1},
+  {"text": "Project status update has been posted in the shared workspace channel. Check the latest PR comments.", "label": 0}
+]
